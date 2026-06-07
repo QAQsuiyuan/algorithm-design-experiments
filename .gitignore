@@ -1,0 +1,13 @@
+# 可执行文件
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# 生成的 Excel
+results/*.xlsx
+
+# 系统文件
+.DS_Store
+Thumbs.db
